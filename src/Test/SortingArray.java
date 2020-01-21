@@ -8,6 +8,7 @@ public class SortingArray {
 	        // Insertion sort
 
 	        int [] array = {3,8,3,5,3,3,1,-10,12,78,34,0};
+	       
 	        // output 1 3 5 6 8
 
 
