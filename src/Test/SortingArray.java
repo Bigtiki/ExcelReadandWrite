@@ -12,7 +12,7 @@ public class SortingArray {
 	        // output 1 3 5 6 8
 	        
 	       
-
+perfect
 
 	        for(int i=1; i<array.length; i++){
 

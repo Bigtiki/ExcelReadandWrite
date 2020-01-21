@@ -24,7 +24,7 @@ public class ExcelReadFile {
 		ReadExcelFile();
 	}
 	
-	gg
+	
 
 	
 	
